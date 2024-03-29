@@ -1,0 +1,162 @@
+.nav-one {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+a,
+span {
+    text-decoration: none;
+    color: gray;
+    font-size: small;
+}
+
+.nest_img_logo {
+    width: 180px;
+    height: 80px;
+    margin-top: -15px;
+}
+
+.search {
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 3px;
+    height: 50px;
+    display: flex;
+    align-content: center;
+}
+
+#search_icon {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#loc {
+    margin-left: 50px;
+    height: 50px;
+    width: 160px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px grey;
+}
+
+.Categories {
+    border: none;
+    width: 150px;
+}
+
+.searchinput {
+    width: 400px;
+    height: 10px;
+    border: none;
+    padding: 20px;
+}
+
+.nav-two {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.btn {
+    width: 250px;
+}
+
+.compare {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#icons {
+    font-size: 25px;
+    
+}
+
+.icon-font {
+    font-size: 25px;
+   
+}
+
+#three>a {
+    margin-left: 25px;
+    font-size: 15px;
+    color: rgb(33, 33, 33);
+    font-weight: 600;
+}
+
+.headphones {
+    font-size: 30px;
+    margin-left: 180px;
+}
+
+.contact {
+    margin-left: 20px;
+}
+
+.number {
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.down_ar {
+    color: green;
+    font-size: 10px;
+}
+
+.main_img {
+    border-radius: 25px;
+
+}
+
+.banner_heading {
+    position: absolute;
+    color: gray;
+    top: 500px;
+    left: 100px;
+    width: 550px;
+    line-height: 20px;
+
+}
+
+.banner_heading>h1 {
+    font-size: 2.9rem;
+    color: black;
+}
+
+.Subscribe {
+    font-size: x-large;
+    border-radius: 30px;
+    width: max-content;
+    background-color: white;
+}
+
+.Subscribe1 {
+    height: 50px;
+    margin-left: 20px;
+}
+
+.Subscribe2 {
+    color: white;
+    padding: 20px;
+    width: 180px;
+    font-size: smaller;
+    background-color: rgba(0, 128, 0, 0.708);
+    border-radius: 30px;
+
+}
+
+.fa-paper-plane {
+    font-size: smaller;
+    margin-left: 15px;
+}
+
+.cart_one {
+    text-align: center;
+    padding: 6px;
+    height: 180px;
+    width: 130px;
+    border-radius: 15px;
+    background-color: rgba(121, 187, 133, 0.374);
+}

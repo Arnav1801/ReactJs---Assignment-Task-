@@ -1,0 +1,15 @@
+.arnav{
+    background-color:rgb(42, 123, 228);
+    color: white;
+    height: 100vh;
+    width: 100vw; 
+    padding-top: 250px; 
+    text-align: center;
+}
+#inc {
+    margin-left: 50px;
+    
+}
+#reset-btn {
+   margin-top: 30px;
+}
